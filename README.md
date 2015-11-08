@@ -1,2 +1,3 @@
-# node-es6
-Simple tests for ES6
+# Node ES6
+
+Various simples tests usign ES6 features
